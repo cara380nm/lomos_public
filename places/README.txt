@@ -1,0 +1,1 @@
+The Lomos Sea is the sea between Arzitia to the south, with Lomos to the north. It stretches from Gressen to the west, to Drakelond to the east.
