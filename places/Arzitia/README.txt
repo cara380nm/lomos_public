@@ -1,1 +1,0 @@
-Arzita is a large (mostly desert) empire under the tyranical control of a regent. While the emperor is the head of state, power is held by a vizier if the emperor has not yet come of age. Emperors have a tendancy not to reach adulthood.
