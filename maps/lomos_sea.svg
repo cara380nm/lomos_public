@@ -16,7 +16,10 @@
    version="1.1"
    id="svg2"
    height="744.09448"
-   width="1052.3622">
+   width="1052.3622"
+   inkscape:export-filename="\\chariot\ash\git\d_n_d\lomos_public\maps\lomos_sea.png"
+   inkscape:export-xdpi="80.050003"
+   inkscape:export-ydpi="80.050003">
   <defs
      id="defs4">
     <linearGradient
@@ -1486,7 +1489,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

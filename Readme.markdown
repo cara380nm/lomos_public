@@ -1,5 +1,7 @@
 # Lomos setting
 
+![Map of area](./maps/lomos_sea.png "Lomos map")
+
 ## Overview
 
 These are notes for a homebrew campaign setting. Generally things are stock 3.5 D&D, but with perhaps a mild steampunk flavour. Mechanical power is expensive, bulky, and fault prone, so this mostly means elite vehicles and buildings. Hand weapons and personal equipment are generally stock 3.5.
@@ -13,6 +15,20 @@ The campaign occurs in the vicinity of the Lomos Sea, which stretches between Ar
 #### Arzita
 
 Arzita is a large (mostly desert) sultanate controlled by the house of Hamhimri. In recent years power has been held by a vizier, as Sultan Hamhimri XVI is not yet of age. Sultans have tend not to reach adulthood, and adults in line to the throne tend to meet with accidents.
+
+#### Freecrags
+
+Freecrags is the area north of Arzitia. It consists of several tiny monarchies, city-states, and stateless territories. Many areas are contested.
+
+##### Lastport
+
+A large city which handles almost all goods coming to west Arzitia and Freecrags. It is a small duchy incororating the lands north to the mountains, and westwards to Mavi. Nominally it is a protectorate of Arzitia, but in practice it is independant.
+
+##### Mavi
+
+A small city of 12000, positioned on the edge of the desert where the land is still just capable of sustaining crops. The city is notable for its unusual structure, effectively ruled over by guilds. It has an usually long wall surrounding the entire city. The wall is a callback to the days of Dragon raids, but now acts simply to regulate population movement.
+
+[Detail](./mavi.markdown)
 
 ### Genomos archipelego
 
