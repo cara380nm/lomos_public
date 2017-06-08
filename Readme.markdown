@@ -22,11 +22,11 @@ Freecrags is the area north of Arzitia. It consists of several tiny monarchies, 
 
 ##### Lastport
 
-A large city which handles almost all goods coming to west Arzitia and Freecrags. It is a small duchy incororating the lands north to the mountains, and westwards to Mavi. Nominally it is a protectorate of Arzitia, but in practice it is independant.
+A large city which handles almost all goods coming to west Arzitia and Freecrags. It is a small duchy incororating the lands north to the mountains, and westwards to Mavi. Nominally it is a protectorate of Arzitia, but in practice it is independent. Mostly human, though with a large contingent of other races.
 
 ##### Mavi
 
-A small city of 12000, positioned on the edge of the desert where the land is still just capable of sustaining crops. The city is notable for its unusual structure, effectively ruled over by guilds. It has an usually long wall surrounding the entire city. The wall is a callback to the days of Dragon raids, but now acts simply to regulate population movement.
+A small city of 12000, positioned on the edge of the desert where the land is still just capable of sustaining crops. The city is notable for its unusual structure, effectively ruled over by guilds. It has an usually long wall surrounding almost the entire city. The wall is a callback to the days of Dragon raids, but now acts simply to regulate population movement. 
 
 [Detail](./mavi.markdown)
 
