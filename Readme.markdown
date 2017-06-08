@@ -12,6 +12,8 @@ The campaign occurs in the vicinity of the Lomos Sea, which stretches between Ar
 
 ### Arzitan continent
 
+Common is understood by relatively few speakers. "Arzitian" is generally spoken in place of it.
+
 #### Arzita
 
 Arzita is a large (mostly desert) sultanate controlled by the house of Hamhimri. In recent years power has been held by a vizier, as Sultan Hamhimri XVI is not yet of age. Sultans have tend not to reach adulthood, and adults in line to the throne tend to meet with accidents.
@@ -19,6 +21,8 @@ Arzita is a large (mostly desert) sultanate controlled by the house of Hamhimri.
 #### Freecrags
 
 Freecrags is the area north of Arzitia. It consists of several tiny monarchies, city-states, and stateless territories. Many areas are contested.
+
+Deeper into the mountains most people speak giant. To the east dwarvern is heavily used. Around much of the Freecrags area a degenerate form of Infernal called "Court" is spoken by nobility.
 
 ##### Lastport
 
@@ -34,7 +38,7 @@ A small city of 12000, positioned on the edge of the desert where the land is st
 
 #### Genomos
 
-Genomos has the largest population of gnomes in the Lomos sea, and a smattering of other civilised races.
+Genomos has the largest population of gnomes in the Lomos sea, and a smattering of other civilised races. Gnomish is heavily spoken amongst the gnomes, but common is near universal too.
 
 Goblins are relatively rare now, though travel between settlements isn't always safe. Travellers should still be prepared for an occassional brigand attack. Those foolish enough to step off the main tracks should expect to meet more exotic foes. In particular, tales are still told of the Drail, a large grey supposedly invulnerable monster.
 
@@ -77,6 +81,8 @@ In holding the barbarian tribes at bay, Cleb allows traders to do a very prosper
 
 Gressen is a temperate island south of Lomos. It might be considered the most civilised island in the Lomos sea. Rich, prosperous, and relatively safe, it is ruled from Gressen city by a stable monarchy. The population is primarily elvish, though humans, gnomes, dwarves and halflings are usually tolerated if not always embraced.
 
+Even non-elves tend to speak Elven as their first language.
+
 ##### Brevnia
 
 The southern city of Brevnia is widely renowned as a cultural hub. From the nobility's richly ornamented palaces that dominate the skyline down to the fine goods its artisans export, the city is considered a symbol of class. It is somewhat more diverse than any other cities on the island but elves still dominate everywhere except the port district.
@@ -90,5 +96,4 @@ A temperate, bordering on subtropical, island roughly situated rougly equidistan
 The island shares its name with the port of Layover. The port city is the only substantial development. The north of the island is agricultural, and the remainder of the island is largely shrubland/grassland.
 
 The city is cosmopolitan, though mostly human. There are some very insular rural gnomish and halfling communities on the island.
-
 
