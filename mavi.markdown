@@ -4,6 +4,8 @@ A small city state of 12000, positioned on the edge of the desert where the land
 
 Economically it acts as a trade centre for the desert dwellers to the south, the dwarvern miners to the north, and the sea traffic from Lastport to the east. It is also the cultural centre in the region.
 
+![Map of city districts](./maps/mavi.png "Map of city districts")
+
 ## Population
 
 The population is mostly human, and the ruling guilds are almost exclusively human. There is a small gnomish quarter which consists mostly of artificers. There are few elves or halflings, but a reasonable number of dwarvern traders and militia.
