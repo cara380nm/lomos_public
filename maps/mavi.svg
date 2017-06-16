@@ -119,8 +119,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="536.90913"
-     inkscape:cy="552.09348"
+     inkscape:cx="537.1398"
+     inkscape:cy="380.51376"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -729,7 +729,7 @@
          sodipodi:role="line"
          id="tspan3958"
          x="578.85712"
-         y="630.38019">Slums</tspan></text>
+         y="630.38019">Wallside (Slums)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
@@ -755,22 +755,30 @@
          sodipodi:role="line"
          id="tspan3968"
          x="797.14288"
-         y="562.66589">Ghettos</tspan></text>
+         y="562.66589">Keft</tspan><tspan
+         sodipodi:role="line"
+         x="797.14288"
+         y="580.16589"
+         id="tspan3193">(Ghettos)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
-       x="810.85712"
-       y="473.80878"
+       x="785.14282"
+       y="456.66592"
        id="text3970"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3972"
-         x="810.85712"
-         y="473.80878">Average</tspan><tspan
+         x="785.14282"
+         y="456.66592">Easttower</tspan><tspan
          sodipodi:role="line"
-         x="810.85712"
-         y="491.30878"
-         id="tspan5795">residences</tspan></text>
+         x="785.14282"
+         y="474.16592"
+         id="tspan3199">(Average</tspan><tspan
+         sodipodi:role="line"
+         x="785.14282"
+         y="491.66592"
+         id="tspan5795">residences)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
@@ -803,11 +811,11 @@
          sodipodi:role="line"
          id="tspan3996"
          x="627.81775"
-         y="95.442772">Slave</tspan><tspan
+         y="95.442772">Barrowlands</tspan><tspan
          sodipodi:role="line"
          x="627.81775"
          y="112.94277"
-         id="tspan3998">quarter</tspan></text>
+         id="tspan3998">(Slave quarter)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
@@ -871,13 +879,17 @@
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
        x="99.14286"
-       y="554.38019"
+       y="542.38019"
        id="text4026"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="99.14286"
-         y="554.38019"
-         id="tspan4030">Wealthy residential</tspan></text>
+         y="542.38019"
+         id="tspan4030">Forthton</tspan><tspan
+         sodipodi:role="line"
+         x="99.14286"
+         y="559.88019"
+         id="tspan3175">(Wealthy residential)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
@@ -888,7 +900,11 @@
          sodipodi:role="line"
          id="tspan4034"
          x="169.42856"
-         y="671.52307">Shanty town</tspan></text>
+         y="671.52307">Outville</tspan><tspan
+         sodipodi:role="line"
+         x="169.42856"
+         y="689.02307"
+         id="tspan3181">(Shanty town)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
@@ -899,11 +915,19 @@
          sodipodi:role="line"
          id="tspan4038"
          x="348.57144"
-         y="600.95166">Abandoned</tspan><tspan
+         y="600.95166">Greenflow's</tspan><tspan
          sodipodi:role="line"
          x="348.57144"
          y="618.45166"
-         id="tspan4040">estate</tspan></text>
+         id="tspan3189">estate</tspan><tspan
+         sodipodi:role="line"
+         x="348.57144"
+         y="635.95166"
+         id="tspan3191">(Abandoned)</tspan><tspan
+         sodipodi:role="line"
+         x="348.57144"
+         y="653.45166"
+         id="tspan4040" /></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
@@ -1081,5 +1105,15 @@
          id="tspan5805"
          x="566"
          y="297.23734">University</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3201"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Segoe Print;font-style:normal;font-weight:normal;font-size:14px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Segoe Print;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion3203"><rect
+           id="rect3205"
+           width="24.285715"
+           height="32.857143"
+           x="787.14288"
+           y="441.23734" /></flowRegion><flowPara
+         id="flowPara3207"></flowPara></flowRoot>  </g>
 </svg>
