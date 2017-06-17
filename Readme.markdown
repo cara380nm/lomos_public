@@ -26,7 +26,7 @@ Deeper into the mountains most people speak giant. To the east dwarvern is heavi
 
 ##### Lastport
 
-A large city which handles almost all goods coming to west Arzitia and Freecrags. It is a small duchy incororating the lands north to the mountains, and westwards to Mavi. Nominally it is a protectorate of Arzitia, but in practice it is independent. Mostly human, though with a large contingent of other races.
+A large town city which handles almost all goods coming to west Arzitia and Freecrags. It is a small duchy incororating the lands north to the mountains, and westwards to Mavi. Nominally it is a protectorate of Arzitia, but in practice it is independent. Mostly human, though with a large contingent of other races.
 
 ##### Mavi
 
