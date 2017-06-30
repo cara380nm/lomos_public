@@ -110,19 +110,37 @@
          stdDeviation="0.39821428"
          id="feGaussianBlur5752-0" />
     </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5750-2-1">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.39821428"
+         id="feGaussianBlur5752-0-7" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5750-2-1-0">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.39821428"
+         id="feGaussianBlur5752-0-7-9" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="537.1398"
-     inkscape:cy="380.51376"
+     inkscape:cx="486.26063"
+     inkscape:cy="345.81394"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g4078"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="953"
@@ -143,17 +161,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-308.2677)"
-     style="display:none"
-     sodipodi:insensitive="true" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
@@ -377,7 +388,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#fdcd96;stroke:#777777;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#fdcd96;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 45.453396,315.72387 2.0203051,272.35324 3.0304576,185.48012 42.857143,182.66591"
        id="path7760"
        inkscape:connector-curvature="0" />
@@ -390,36 +401,6 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
-       x="969.78705"
-       y="402.1756"
-       id="text7798"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="969.78705"
-         y="402.1756"
-         id="tspan7808">Markets</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
-       x="970.85712"
-       y="215.80878"
-       id="text7814"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan7816"
-         x="970.85712"
-         y="215.80878">Markets</tspan><tspan
-         sodipodi:role="line"
-         x="970.85712"
-         y="233.30878"
-         id="tspan7818">&amp;</tspan><tspan
-         sodipodi:role="line"
-         x="970.85712"
-         y="250.80878"
-         id="tspan7820">Inn</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
        x="8.5714283"
        y="256.95163"
        id="text7822"
@@ -428,53 +409,17 @@
          id="tspan7824"
          x="8.5714283"
          y="256.95163" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
-       x="204.25589"
-       y="-16.62221"
-       id="text7826"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan7828"
-         x="204.25589"
-         y="-16.62221">Markets</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
-       x="382.29266"
-       y="-22.248955"
-       id="text7826-8"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan7828-2"
-         x="382.29266"
-         y="-22.248955">Markets</tspan></text>
     <path
-       style="fill:#e4ffad;stroke:#777777;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#e4ffad;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 37.142857,116.95162 3.0304576,185.48012 42.857143,182.66591 109.53198,119.2435 z"
        id="path7855"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
-       x="30.304577"
-       y="152.1451"
-       id="text7857"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan7859"
-         x="30.304577"
-         y="152.1451">Park</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Walls"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#777777;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5734);enable-background:accumulate"
        d="m 520.49512,13.558938 -2.95821,13.474408 24.94724,3.844843 2.53903,-12.831137"
@@ -551,7 +496,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="label"
+     inkscape:label="GeneralPlaces"
      style="display:inline">
     <text
        xml:space="preserve"
@@ -1112,12 +1057,237 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3201"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Segoe Print;font-style:normal;font-weight:normal;font-size:14px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Segoe Print;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"><flowRegion
          id="flowRegion3203"><rect
            id="rect3205"
            width="24.285715"
            height="32.857143"
            x="787.14288"
            y="441.23734" /></flowRegion><flowPara
-         id="flowPara3207" /></flowRoot>  </g>
+         id="flowPara3207" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
+       x="969.78705"
+       y="402.1756"
+       id="text7798"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="969.78705"
+         y="402.1756"
+         id="tspan7808">Markets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
+       x="970.85712"
+       y="215.80878"
+       id="text7814"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7816"
+         x="970.85712"
+         y="215.80878">Markets</tspan><tspan
+         sodipodi:role="line"
+         x="970.85712"
+         y="233.30878"
+         id="tspan7818">&amp;</tspan><tspan
+         sodipodi:role="line"
+         x="970.85712"
+         y="250.80878"
+         id="tspan7820">Inn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
+       x="204.25589"
+       y="-16.62221"
+       id="text7826"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan7828"
+         x="204.25589"
+         y="-16.62221">Markets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
+       x="382.29266"
+       y="-22.248955"
+       id="text7826-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan7828-2"
+         x="382.29266"
+         y="-22.248955">Markets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
+       x="30.304577"
+       y="152.1451"
+       id="text7857"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7859"
+         x="30.304577"
+         y="152.1451">Park</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="NotablePlaces"
+     style="display:inline">
+    <g
+       id="g4073"
+       transform="translate(175.51111,-138.18784)">
+      <g
+         id="g4078"
+         transform="translate(0,-4)">
+        <g
+           id="g4083">
+          <text
+             sodipodi:linespacing="125%"
+             id="text4065"
+             y="802.66589"
+             x="394.28571"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print Bold"
+             xml:space="preserve"><tspan
+               y="802.66589"
+               x="394.28571"
+               id="tspan4067"
+               sodipodi:role="line">Greasy weasel</tspan></text>
+          <path
+             transform="translate(2,2)"
+             inkscape:transform-center-y="-0.63871272"
+             inkscape:transform-center-x="0.12915449"
+             d="m 374.6289,795.06058 6.46344,0.52281 0.83245,-6.4309 1.5001,6.30865 6.37339,-1.19555 -5.53633,3.37616 3.10652,5.69201 -4.92174,-4.22207 -4.45345,4.7134 2.49453,-5.98554 z"
+             inkscape:randomized="9.1246455e-016"
+             inkscape:rounded="1.0304257e-015"
+             inkscape:flatsided="false"
+             sodipodi:arg2="-2.2514747"
+             sodipodi:arg1="-2.8797933"
+             sodipodi:r2="1.9869062"
+             sodipodi:r1="7.9859571"
+             sodipodi:cy="797.1275"
+             sodipodi:cx="382.34274"
+             sodipodi:sides="5"
+             id="path4071"
+             style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="star" />
+        </g>
+        <g
+           transform="translate(-283.61852,-289.32721)"
+           style="display:inline"
+           id="g4083-8">
+          <g
+             id="g4115">
+            <text
+               xml:space="preserve"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print Bold"
+               x="394.28571"
+               y="802.66589"
+               id="text4065-8"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan4067-2"
+                 x="394.28571"
+                 y="802.66589">Mason's arms</tspan></text>
+            <path
+               sodipodi:type="star"
+               style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               id="path4071-4"
+               sodipodi:sides="5"
+               sodipodi:cx="382.34274"
+               sodipodi:cy="797.1275"
+               sodipodi:r1="7.9859571"
+               sodipodi:r2="1.9869062"
+               sodipodi:arg1="-2.8797933"
+               sodipodi:arg2="-2.2514747"
+               inkscape:flatsided="false"
+               inkscape:rounded="1.0304257e-015"
+               inkscape:randomized="9.1246455e-016"
+               d="m 374.6289,795.06058 6.46344,0.52281 0.83245,-6.4309 1.5001,6.30865 6.37339,-1.19555 -5.53633,3.37616 3.10652,5.69201 -4.92174,-4.22207 -4.45345,4.7134 2.49453,-5.98554 z"
+               inkscape:transform-center-x="0.12915449"
+               inkscape:transform-center-y="-0.63871272"
+               transform="translate(2,2)" />
+          </g>
+        </g>
+        <g
+           transform="translate(89.81005,-343.61292)"
+           style="display:inline"
+           id="g4083-5">
+          <g
+             id="g4147">
+            <text
+               xml:space="preserve"
+               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print Bold"
+               x="394.28571"
+               y="802.66589"
+               id="text4065-5"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan4067-1"
+                 x="394.28571"
+                 y="802.66589">Octavium</tspan></text>
+            <path
+               sodipodi:type="star"
+               style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               id="path4071-7"
+               sodipodi:sides="5"
+               sodipodi:cx="382.34274"
+               sodipodi:cy="797.1275"
+               sodipodi:r1="7.9859571"
+               sodipodi:r2="1.9869062"
+               sodipodi:arg1="-2.8797933"
+               sodipodi:arg2="-2.2514747"
+               inkscape:flatsided="false"
+               inkscape:rounded="1.0304257e-015"
+               inkscape:randomized="9.1246455e-016"
+               d="m 374.6289,795.06058 6.46344,0.52281 0.83245,-6.4309 1.5001,6.30865 6.37339,-1.19555 -5.53633,3.37616 3.10652,5.69201 -4.92174,-4.22207 -4.45345,4.7134 2.49453,-5.98554 z"
+               inkscape:transform-center-x="0.12915449"
+               inkscape:transform-center-y="-0.63871272"
+               transform="translate(2,2)" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Key"
+     style="display:inline">
+    <path
+       style="color:#000000;fill:#00f6ff;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5750-2-1);enable-background:accumulate"
+       d="m 875.19462,687.53085 10.42362,-0.0861 0.55609,-18.2152 -11.06295,0.0728 z"
+       id="path5985-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5750-2-1-0);enable-background:accumulate"
+       d="m 874.85694,714.59196 10.42362,-0.0861 0.55609,-18.2152 -11.06295,0.0728 z"
+       id="path5985-4-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
+       x="895.44189"
+       y="681.85626"
+       id="text4009"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4011"
+         x="895.44189"
+         y="681.85626">Tower with gate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
+       x="895.44189"
+       y="710.13757"
+       id="text4013"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4015"
+         x="895.44189"
+         y="710.13757">Tower</tspan></text>
+  </g>
 </svg>
